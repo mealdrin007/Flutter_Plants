@@ -1,0 +1,146 @@
+{
+  "top": [
+    {
+      "id": 1,
+      "name": "Fiddle Leaf Fig",
+      "description": "A popular houseplant with large, glossy leaves.",
+      "image": "assets/images/fiddle_leaf_fig.png",
+      "price": 127
+    },
+    {
+      "id": 2,
+      "name": "Peace Lily",
+      "description": "Known for its white blooms and air-purifying qualities.",
+      "image": "assets/images/peace_lily.png",
+      "price": 112
+    }
+  ],
+  "outdoor": [
+    {
+      "id": 3,
+      "name": "Monstera",
+      "description": "Also known as the Swiss Cheese Plant, great for outdoor spaces.",
+      "image": "assets/images/monstera.png",
+      "price": 96
+    },
+    {
+      "id": 4,
+      "name": "Bougainvillea",
+      "description": "Vibrant flowering plant, perfect for outdoor decoration.",
+      "image": "assets/images/bougainvillea.png",
+      "price": 104
+    }
+  ],
+  "indoor": [
+    {
+      "id": 5,
+      "name": "Snake Plant",
+      "description": "Easy to care for and known for its air-purifying qualities.",
+      "image": "assets/images/snakeplant.png",
+      "price": 183
+    },
+    {
+      "id": 6,
+      "name": "Spider Plant",
+      "description": "Great for beginners, known for its arching leaves.",
+      "image": "assets/images/spider_plant.png",
+      "price": 205
+    }
+  ],
+  "seeds": [
+    {
+      "id": 7,
+      "name": "Sunflower Seeds",
+      "description": "Grow your own sunflowers from these seeds.",
+      "image": "assets/images/sunflower_seeds.png",
+      "price": 78
+    },
+    {
+      "id": 8,
+      "name": "Tomato Seeds",
+      "description": "Heirloom tomato seeds for the home gardener.",
+      "image": "assets/images/tomato_seeds.png",
+      "price": 53
+    }
+  ],
+  "flowering": [
+    {
+      "id": 9,
+      "name": "Rose",
+      "description": "Beautiful and fragrant flowers, available in many colors.",
+      "image": "assets/images/rose.png",
+      "price": 112
+    },
+    {
+      "id": 10,
+      "name": "Orchid",
+      "description": "Exotic flowering plants known for their unique and intricate blossoms.",
+      "image": "assets/images/orchid.png",
+      "price": 120
+    }
+  ],
+  "succulents": [
+    {
+      "id": 11,
+      "name": "Aloe Vera",
+      "description": "Medicinal and easy to care for succulent.",
+      "image": "assets/images/aloe_vera.png",
+      "price": 92
+    },
+    {
+      "id": 12,
+      "name": "Echeveria",
+      "description": "Compact rosette-shaped succulent, perfect for indoor and outdoor.",
+      "image": "assets/images/echeveria.png",
+      "price": 168
+    }
+  ],
+  "herbs": [
+    {
+      "id": 13,
+      "name": "Basil",
+      "description": "Great for cooking, fresh and aromatic leaves.",
+      "image": "assets/images/basil.png",
+      "price": 114
+    },
+    {
+      "id": 14,
+      "name": "Mint",
+      "description": "Refreshing herb, perfect for drinks and desserts.",
+      "image": "assets/images/mint.png",
+      "price": 85
+    }
+  ],
+  "foliage": [
+    {
+      "id": 15,
+      "name": "Pothos",
+      "description": "Easy to grow and maintain, known for its trailing vines.",
+      "image": "assets/images/pothos.png",
+      "price": 136
+    },
+    {
+      "id": 16,
+      "name": "Calathea",
+      "description": "Known for its beautiful, patterned leaves.",
+      "image": "assets/images/calathea.png",
+      "price": 157
+    }
+  ],
+  "bonsai": [
+    {
+      "id": 17,
+      "name": "Ficus Bonsai",
+      "description": "Popular bonsai tree, easy to care for.",
+      "image": "assets/images/ficus_bonsai.png",
+      "price": 245
+    },
+    {
+      "id": 18,
+      "name": "Juniper Bonsai",
+      "description": "Traditional bonsai plant, known for its intricate shape.",
+      "image": "assets/images/juniper_bonsai.png",
+      "price": 320
+    }
+  ]
+}
